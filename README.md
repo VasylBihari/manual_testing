@@ -1,2 +1,2 @@
-Here are collected some bugs that I found on sites https://novaposhta.ua/,  https://www.oracle.com, https://www.amazon.com/
+Here are some errors that I found on the sites https://novaposhta.ua/, https://www.oracle.com, https://www.amazon.com/ during the software testing course.
 
